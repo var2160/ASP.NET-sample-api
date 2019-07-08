@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\SimpleAPI",
+    "\\src\\SimpleAPI\\bin",
+    "\\src\\SimpleAPI\\bin\\Release",
+    "\\src\\SimpleAPI\\obj",
+    "\\src\\SimpleAPI\\Properties",
+    "\\src\\SimpleAPI\\wwwroot",
+    "\\test",
+    "\\test\\SimpleAPI.Test",
+    "\\test\\SimpleAPI.Test\\bin",
+    "\\test\\SimpleAPI.Test\\bin\\Release"
+  ],
+  "SelectedNode": "\\src\\SimpleAPI\\SimpleAPI.csproj",
+  "PreviewInSolutionExplorer": false
+}

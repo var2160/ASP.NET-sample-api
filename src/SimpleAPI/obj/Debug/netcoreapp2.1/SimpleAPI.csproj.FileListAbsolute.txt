@@ -1,0 +1,14 @@
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.deps.json
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.runtimeconfig.json
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.runtimeconfig.dev.json
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.dll
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\bin\Debug\netcoreapp2.1\SimpleAPI.pdb
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.csprojAssemblyReference.cache
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.csproj.CoreCompileInputs.cache
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.RazorAssemblyInfo.cache
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.RazorAssemblyInfo.cs
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.AssemblyInfoInputs.cache
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.AssemblyInfo.cs
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.RazorTargetAssemblyInfo.cache
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.dll
+C:\Users\111105\Desktop\simpleAPI\src\SimpleAPI\obj\Debug\netcoreapp2.1\SimpleAPI.pdb
