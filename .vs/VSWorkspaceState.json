@@ -1,16 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\src",
     "\\src\\SimpleAPI",
     "\\src\\SimpleAPI\\bin",
     "\\src\\SimpleAPI\\bin\\Release",
     "\\src\\SimpleAPI\\Controllers",
     "\\src\\SimpleAPI\\obj",
     "\\src\\SimpleAPI\\Properties",
-    "\\src\\SimpleAPI\\wwwroot",
-    "\\test\\SimpleAPI.Test",
-    "\\test\\SimpleAPI.Test\\bin",
-    "\\test\\SimpleAPI.Test\\bin\\Release"
+    "\\src\\SimpleAPI\\wwwroot"
   ],
+  "SelectedNode": "\\src\\SimpleAPI\\Controllers\\ValuesController.cs",
   "PreviewInSolutionExplorer": false
 }
